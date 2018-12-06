@@ -113,19 +113,22 @@
 
 ![cmd-markdown-logo](./pic/图片25.png)
 
+![cmd-markdown-logo](./pic/图片26.png)
+
 
 ------
+
 
 ## Gitlab安装
 
 ### 1.使用虚拟机安装好 Ubuntu16.04
 
 
-![cmd-markdown-logo](./pic/图片26.png)
+![cmd-markdown-logo](./pic/图片27.png)
 
 ### 2.先下载依赖：
 
-![cmd-markdown-logo](./pic/图片27.png)
+![cmd-markdown-logo](./pic/图片28.png)
 
 ### 3.老师所给博客无法正确下载并安装 根据自己的切身体会 亲测使用如下资料可以下载并正确安装 资料来源：StackOverflow
 
@@ -137,28 +140,50 @@
 > Then configured it with
 > sudo gitlab-ctl reconfigure
 
-![cmd-markdown-logo](./pic/图片28.png)
+![cmd-markdown-logo](./pic/图片29.png)
 
 ### 4.更改配置，打开防火墙
-
-![cmd-markdown-logo](./pic/图片29.png)
 
 ![cmd-markdown-logo](./pic/图片30.png)
 
 ![cmd-markdown-logo](./pic/图片31.png)
 
-### 5.修改初始密码，并登陆
-
 ![cmd-markdown-logo](./pic/图片32.png)
+
+### 5.修改初始密码，并登陆
 
 ![cmd-markdown-logo](./pic/图片33.png)
 
-### 6.创建项目：
-
 ![cmd-markdown-logo](./pic/图片34.png)
+
+### 6.创建项目：
 
 ![cmd-markdown-logo](./pic/图片35.png)
 
 ![cmd-markdown-logo](./pic/图片36.png)
 
 ![cmd-markdown-logo](./pic/图片37.png)
+
+------
+
+## 关于我
+
+Github:https://github.com/Qinxianshen
+
+CSDN: https://blog.csdn.net/Qin_xian_shen
+
+个人博客: http://saijiadexiaoqin.cn/
+
+Gitchat:https://gitbook.cn/gitchat/author/59ef0b02a276fd1a69094634
+
+哔哩哔哩：https://space.bilibili.com/126021651/#/
+
+微信公众号：松爱家的小秦
+
+更多LIVE：
+
+[如何利用 Selenium 爬取评论数据？](https://gitbook.cn/gitchat/activity/59ef0fbf54011222e227c720)
+
+[Neo4j 图数据库在社交网络等领域的应用](https://gitbook.cn/gitchat/activity/5a310961259a166307ceadb4)
+
+[如何快速编写小程序商城和安卓 APP 商城](https://gitbook.cn/gitchat/activity/5b628776ff984e633d987f7d)
